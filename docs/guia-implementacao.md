@@ -7,7 +7,7 @@ Após a importação dos arquivos para o seu projeto, é fundamental configurar 
 
 > **Nota:** O nome interno é alterado na janela de propriedades do VBE, não é apenas renomear a aba no Excel.
 
-![Nome interno VBA na janela de propriedades](img/imagem3.png)
+![Nome interno VBA na janela de propriedades](img/imagem1.png)
 
 *Imagem 3 – Configuração do Nome interno (CodeName) no VBA.*
 
@@ -30,7 +30,7 @@ Local onde os dados ficam armazenados permanentemente.
     * **Conceito**
 * **Ação:** Não alterar manualmente. Essas células são preenchidas automaticamente pelo VBA durante a digitação no formulário.
 
-![Execução do formulário e preenchimento dos critérios](img/imagem4.png)
+![Execução do formulário e preenchimento dos critérios](img/imagem2.png)
 
 *Imagem 4 – Execução e aplicação dinâmica do campo de busca.*
 
@@ -45,6 +45,6 @@ Local onde o "Filtro Avançado" do VBA despeja os dados encontrados.
 ### Visualização de Detalhes
 A coluna de **Conceito** não aparece na listagem principal para economizar espaço. Ela é exibida exclusivamente no **segundo formulário**, que é acionado através de um **clique duplo** sobre qualquer indicador listado.
 
-![Detalhes do conceito](img/imagem5.png)
+![Detalhes do conceito](img/imagem3.png)
 
 *Imagem 5 – Exibição do conceito detalhado no segundo formulário.*
