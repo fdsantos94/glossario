@@ -29,13 +29,13 @@ O formulário foi configurado com a propriedade `ShowModal = False`.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/img/imagem4-filtro.png" alt="Tela Principal com Busca" width="700">
+  <img src="assets/img/img-filtro.png" alt="Tela Principal com Busca" width="700">
   <br>
   <em>Tela Principal: Busca dinâmica filtrando por trechos de texto ("at").</em>
 </p>
 
 <p align="center">
-  <img src="docs/img/imagem5-conceito.png" alt="Tela de Detalhes" width="450">
+  <img src="assets/img/img-conceito.png" alt="Tela de Detalhes" width="450">
   <br>
   <em>Tela de Detalhes: Acionada por clique duplo, exibindo o conceito de negócio.</em>
 </p>
