@@ -61,5 +61,6 @@ O projeto segue uma arquitetura organizada para facilitar a manutenção e versi
 │   ├── guia-implementacao.md
 │   └── /img               # Imagens da documentação e README
 │
-└── /assets                # Recursos de Design
-    └── /design            # Layouts editáveis (PPTX)
+├── /assets                # Recursos de Design
+│   └── /design            # Layouts editáveis (PPTX)
+│   └── /img               # Imagens do README
