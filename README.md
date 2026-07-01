@@ -49,16 +49,8 @@ O projeto segue uma arquitetura organizada para facilitar a manutenção e versi
 ```text
 /meu-projeto
 │
-├── /dist                  # Arquivos finais para uso (.xlsm)
-│   ├── glossario-v3-light.xlsm
-│   └── glossario-v3-dark.xlsm
-│
-├── /src                   # Código-fonte exportado
-│   ├── /forms             # Arquivos .frm e .frx (Telas)
-│   └── /modules           # Arquivos .bas (Lógica e Configuração)
-│
-├── /docs                  # Documentação Técnica
-│   ├── guia-implementacao.md
+├── /docs                  # Documentação de problemas enfrentados e solução aplicada
+│   ├── compatibilidade-dpi.md
 │   └── /img               # Imagens da documentação e README
 │
 ├── /assets                # Recursos de Design
